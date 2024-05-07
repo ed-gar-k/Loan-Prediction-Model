@@ -1,0 +1,8 @@
+catboost==1.2.5
+graphviz
+matplotlib
+numpy
+pandas
+plotly
+scipy
+six
