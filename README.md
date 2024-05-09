@@ -72,8 +72,8 @@ The system enables user interaction through a conversational chatbot, allowing u
 The project findings indicate significant improvements in loan approval processes through automation and predictive modeling. Conclusions drawn from the analysis highlight the effectiveness of the developed system in reducing manual effort, improving decision-making accuracy, and enhancing customer satisfaction. Recommendations for future work include exploring additional feature engineering techniques, refining the chatbot's capabilities, and conducting regular model updates to adapt to changing market dynamics.
 
 ### Links
-Presentation slides [Canva](#https://www.canva.com/design/DAGD9Z9FNG4/0wbEswwbOLBLRlTjMVmXyg/edit?utm_content=DAGD9Z9FNG4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Check out the [presentation slides on Canva](https://www.canva.com/design/DAGD9Z9FNG4/0wbEswwbOLBLRlTjMVmXyg/edit?utm_content=DAGD9Z9FNG4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) for more details on the project!
 
-Data Report [google Dox](#https://docs.google.com/document/d/1OYrUptV-f7ryur2HNSwwpGmmQnAy-CNDcK5avy4hZ4M/edit?usp=sharing)
+Check out the [Data report](https://docs.google.com/document/d/1OYrUptV-f7ryur2HNSwwpGmmQnAy-CNDcK5avy4hZ4M/edit?usp=sharing) for more details on the project!
 
-Deployed model [Loan prediction](#https://loan-prediction-model-cnqyfmfoxso8p4dm3p943y.streamlit.app/~/+/)
+Check out the [Model Deployment](https://loan-prediction-model-cnqyfmfoxso8p4dm3p943y.streamlit.app/~/+/) of the projectr
